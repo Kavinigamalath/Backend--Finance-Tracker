@@ -1,8 +1,8 @@
-# Personal Finance Tracker API
+# Backend: Personal Finance Tracker API
 
 ## Project Overview
 
-This project involves the development of a **RESTful API** for managing a **Personal Finance Tracker** system. The API allows users to:
+This backend project involves the development of a **RESTful API** for managing a **Personal Finance Tracker** system. The API allows users to:
 
 - Manage financial records
 - Track expenses
