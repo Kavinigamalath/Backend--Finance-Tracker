@@ -68,7 +68,7 @@ EMAIL_PASS=your_email_password
 To start the server, use the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
 The server will be running at `http://localhost:5000`.
